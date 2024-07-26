@@ -1,0 +1,10 @@
+C:\Users\longh\Source\Repos\xbLive-KVChecker\bin\Release\KVChecker.exe.config
+C:\Users\longh\Source\Repos\xbLive-KVChecker\bin\Release\KVChecker.exe
+C:\Users\longh\Source\Repos\xbLive-KVChecker\bin\Release\KVChecker.pdb
+C:\Users\longh\Source\Repos\xbLive-KVChecker\bin\Release\Core.dll
+C:\Users\longh\Source\Repos\xbLive-KVChecker\bin\Release\MySql.Data.dll
+C:\Users\longh\Source\Repos\xbLive-KVChecker\obj\Release\KVChecker.csproj.AssemblyReference.cache
+C:\Users\longh\Source\Repos\xbLive-KVChecker\obj\Release\KVChecker.csproj.CoreCompileInputs.cache
+C:\Users\longh\Source\Repos\xbLive-KVChecker\obj\Release\KVChecker.csproj.Up2Date
+C:\Users\longh\Source\Repos\xbLive-KVChecker\obj\Release\KVChecker.exe
+C:\Users\longh\Source\Repos\xbLive-KVChecker\obj\Release\KVChecker.pdb
